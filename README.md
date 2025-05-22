@@ -1,4 +1,5 @@
-# Page_Replacement_Visualizer
+# Page Replacement Algorithm Visualizer 🧠💻
+
 This project provides an **educational, web-based visualization tool** for page replacement algorithms used in operating systems. It allows users to input custom page reference strings and observe real-time simulations of how different algorithms manage memory.
 
 ## 🎯 Purpose
